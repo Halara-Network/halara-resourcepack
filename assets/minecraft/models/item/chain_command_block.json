@@ -1,0 +1,26 @@
+{
+    "parent": "block/chain_command_block",
+    "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "halara:item/tokens/1"},
+		{ "predicate": {"custom_model_data": 5}, "model": "halara:item/tokens/5"},
+		{ "predicate": {"custom_model_data": 10}, "model": "halara:item/tokens/10"},
+		{ "predicate": {"custom_model_data": 20}, "model": "halara:item/tokens/20"},
+		{ "predicate": {"custom_model_data": 50}, "model": "halara:item/tokens/50"},
+		{ "predicate": {"custom_model_data": 100}, "model": "halara:item/tokens/100"},
+		{ "predicate": {"custom_model_data": 500}, "model": "halara:item/tokens/500"},
+		{ "predicate": {"custom_model_data": 1000}, "model": "halara:item/tokens/1000"},
+		{ "predicate": {"custom_model_data": 5000}, "model": "halara:item/tokens/5000"},
+		{ "predicate": {"custom_model_data": 10000}, "model": "halara:item/tokens/10000"},
+		{ "predicate": {"custom_model_data": 20000}, "model": "halara:item/tokens/20000"},
+		{ "predicate": {"custom_model_data": 50000}, "model": "halara:item/tokens/50000"},
+		{ "predicate": {"custom_model_data": 100000}, "model": "halara:item/tokens/100000"},
+		{ "predicate": {"custom_model_data": 500000}, "model": "halara:item/tokens/500000"},
+		{ "predicate": {"custom_model_data": 1000000}, "model": "halara:item/tokens/1000000"},
+		{ "predicate": {"custom_model_data": 5000000}, "model": "halara:item/tokens/5000000"},
+		{ "predicate": {"custom_model_data": 10000000}, "model": "halara:item/tokens/10000000"},
+		{ "predicate": {"custom_model_data": 50000000}, "model": "halara:item/tokens/50000000"},
+		{ "predicate": {"custom_model_data": 100000000}, "model": "halara:item/tokens/100000000"},
+		{ "predicate": {"custom_model_data": 500000000}, "model": "halara:item/tokens/500000000"},
+		{ "predicate": {"custom_model_data": 1000000000}, "model": "halara:item/tokens/1000000000"}
+    ]
+}

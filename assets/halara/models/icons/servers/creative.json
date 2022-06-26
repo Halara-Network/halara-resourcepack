@@ -1,0 +1,11 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "halara:icons/servers/creative"
+  },
+  "display": {
+	  "gui": {
+		  "scale": [1.5, 1.5, 1.5]
+	  }		  
+  }
+}

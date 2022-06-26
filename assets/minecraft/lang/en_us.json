@@ -1,0 +1,21 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "menu.game": "",
+  "menu.shareToLan": "play.halara.net",
+  "menu.disconnect": "§6Leave Halara",
+  "menu.returnToGame": "§6Return to Halara",
+  "resourcePack.server.name": "§6§lHalara Network",
+  "container.inventory": "",
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.16": "XVI",
+  "enchantment.level.17": "XVII",
+  "enchantment.level.18": "XVIII",
+  "enchantment.level.19": "XIX",
+  "enchantment.level.20": "XX"
+}

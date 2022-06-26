@@ -1,0 +1,11 @@
+{
+    "parent": "block/command_block",
+    "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "halara:icons/servers/survival"},
+		{ "predicate": {"custom_model_data": 2}, "model": "halara:icons/servers/creative"},
+		{ "predicate": {"custom_model_data": 3}, "model": "halara:icons/servers/prototype"},
+        { "predicate": {"custom_model_data": 6601}, "model": "halara:hats/nail"},
+        { "predicate": {"custom_model_data": 6602}, "model": "halara:hats/witch"},
+        { "predicate": {"custom_model_data": 6603}, "model": "halara:hats/devil_horns"}
+    ]
+}

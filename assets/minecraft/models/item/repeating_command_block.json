@@ -1,0 +1,10 @@
+{
+    "parent": "block/repeating_command_block",
+    "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "halara:item/lobby-spray"},
+		{ "predicate": {"custom_model_data": 2}, "model": "halara:item/nightmare_fuel"},
+		{ "predicate": {"custom_model_data": 3}, "model": "halara:item/magnet"},
+		{ "predicate": {"custom_model_data": 4}, "model": "halara:item/warden_ear"},
+		{ "predicate": {"custom_model_data": 5}, "model": "halara:item/warden_heart"}
+    ]
+}
