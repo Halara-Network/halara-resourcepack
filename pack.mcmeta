@@ -1,6 +1,19 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "§7Innovation fulfilled.\n§bAuthor §8» §eCooper Sullivan"
-  }
+	"pack": {
+		"pack_format": 12,
+		"description": [
+			{
+				"text": "Innovation fulfilled.",
+				"color": "gray",
+				"italic": false
+			},
+			{
+				"text": "\n"
+			},
+			{
+				"text": "v5.0 for Minecraft 1.19",
+				"color": "yellow"
+			}
+		]
+	}
 }

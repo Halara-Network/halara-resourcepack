@@ -652,7 +652,7 @@
             "type": "bitmap",
             "file": "halara:font/halara.png",
             "ascent": 10,
-            "height": 40,
+            "height": 20,
             "chars": [
                 "\uF068"
             ]
@@ -808,6 +808,24 @@
             "height": 32,
             "chars": [
                 "\uF085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "halara:font/season-vault/1.png",
+            "ascent": 13,
+            "height": 96,
+            "chars": [
+                "\uF086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "halara:font/season-vault/2.png",
+            "ascent": 13,
+            "height": 96,
+            "chars": [
+                "\uF087"
             ]
         }
     ]
