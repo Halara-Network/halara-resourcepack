@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 12,
+		"pack_format": 15,
 		"description": [
 			{
 				"text": "Innovation fulfilled.",
@@ -11,7 +11,7 @@
 				"text": "\n"
 			},
 			{
-				"text": "v5.0 for Minecraft 1.19",
+				"text": "v6.0 for Minecraft 1.20",
 				"color": "yellow"
 			}
 		]
