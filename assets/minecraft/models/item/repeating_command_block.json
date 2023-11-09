@@ -3,6 +3,8 @@
     "overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "halara:item/lobby-spray"},
 		{ "predicate": {"custom_model_data": 6602}, "model": "halara:item/nightmare_fuel"},
-		{ "predicate": {"custom_model_data": 6603}, "model": "halara:item/magnet"}
+		{ "predicate": {"custom_model_data": 6603}, "model": "halara:item/magnet"},
+		{ "predicate": {"custom_model_data": 6604}, "model": "halara:item/pity_trophy"},
+		{ "predicate": {"custom_model_data": 6605}, "model": "halara:item/wand_of_indecision"}
     ]
 }
